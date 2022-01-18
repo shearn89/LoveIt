@@ -156,7 +156,7 @@ stackoverflow:
   Prefix: https://stackoverflow.com/users/
   Title: Stack Overflow
   Icon:
-    Class: fab fa-codepen fa-fw
+    Class: fab fa-stack-overflow fa-fw
 
 # 021: 微博
 weibo:
@@ -509,3 +509,11 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 065: Server Fault
+serverfault:
+  Weight: 20
+  Prefix: https://serverfault.com/users/
+  Title: ServerFault
+  Icon:
+    Class: fab fa-stack-exchange fa-fw
