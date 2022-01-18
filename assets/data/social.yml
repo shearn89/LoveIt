@@ -514,6 +514,6 @@ rss:
 serverfault:
   Weight: 20
   Prefix: https://serverfault.com/users/
-  Title: ServerFault
+  Title: Server Fault
   Icon:
     Class: fab fa-stack-exchange fa-fw
